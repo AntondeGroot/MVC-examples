@@ -6,6 +6,6 @@
 - Now bind a string "The number is:   " + SimpleIntegerProperty to the TextArea
 - Use 2 different FXML files and 2 controllers
 
-<img src="readmeImages/mvcexample2.png" alt="alt text" width="100" height="">
+<img src="readmeImages/mvcexample2.png" alt="alt text" width="200" height="">
 
 
