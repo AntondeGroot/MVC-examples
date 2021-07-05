@@ -9,3 +9,7 @@
 <img src="readmeImages/mvcexample2.png" alt="alt text" width="200" height="">
 
 
+**MVCexample3:** This is a binding example, not so much MVC. Maybe I'll expand it to a MVC example later on. A 7x7 grid of squares will fill up the window as big as possible, by binding to the window property.
+
+<img src="readmeImages/mvcexample3.png" alt="alt text" width="200" height="">
+
